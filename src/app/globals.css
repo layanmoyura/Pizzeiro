@@ -6,3 +6,9 @@ section.hero{
     @apply grid;
     grid-template-columns: .4fr .6fr;
 }
+
+@media (max-width: 600px) {
+  .hide-on-mobile {
+    display: none;
+  }
+}

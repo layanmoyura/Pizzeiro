@@ -38,7 +38,7 @@ export default function Home() {
       </section>
       <footer>
         <div className="border-t p-8 text-center text-gray-500 mt-16">
-          <p>&copy; 2024 Pizzeira. All rights reserved.</p>
+          <p>&copy; 2025 Pizzeiro. All rights reserved.</p>
         </div>
       </footer>
     </>
